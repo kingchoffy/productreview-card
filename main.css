@@ -26,12 +26,9 @@ body {
 }
 
 .box1{
-    background-image: url(img/image-product-desktop.jpg
-    );
     min-width: 200px;
     border-radius: 10px 0px 0px 10px;
     background-size: cover;
-    background-repeat: no-repeat;
     height: 330px;
 }
 
